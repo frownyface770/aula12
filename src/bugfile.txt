@@ -1,0 +1,30 @@
+1e067d02-5e3e-4c5e-8e88-6c0e3e6c3b4e,Login page error,User unable to login with valid credentials,Critical,Open
+4bfa4cda-2d78-4319-8f6d-693cd3d6b47d,Button not clickable,Submit button on form is not working,Major,Closed
+8fdb4b4e-3d6c-4d8c-8772-1d4e7fcb9b1f,Page load issue,Homepage takes too long to load,Minor,Open
+c7d6a2c9-8e6b-4d6c-b7b5-4cb3a6c0d7f4,Crash on upload,Application crashes when uploading file,Critical,Open
+5f4a7d3e-9a4c-4e3b-8b2c-4c7c6f3d7c9d,Text overlap,Text overlaps on smaller screens,Major,Closed
+db0c8b3a-6e1e-4b8d-8b6c-1d5e4c8b3e5a,Navigation bar issue,Navigation bar not responsive,Minor,Open
+9f8e5c6d-2f1a-4c8e-8e4d-5c3b8f4d7e9b,Profile update failure,Unable to update profile information,Critical,Closed
+3e7b6c4a-4d3e-4a8b-8e7d-6f0d6c8a7e2c,Session timeout,User session times out too quickly,Major,Open
+7c2e5d3b-9a8e-4d2c-8f7d-4e9d5b7a8c2e,Incorrect tooltip,Tooltip text is incorrect,Minor,Closed
+0d5e6a7c-8e1e-4f9b-8d3e-3c7d4b9f7e5b,Data loss issue,Data is lost after refresh,Critical,Open
+af7e5b4c-3d2e-4b1a-8c9d-5e6d7c3f8e2a,Password reset error,Password reset email not sent,Major,Closed
+2b5f6d8c-9e3e-4a7b-8e5d-3c4d6f8b7e9f,Image not loading,Images do not load on gallery page,Minor,Open
+ef7d4c6a-3e5b-4a8f-8d2c-6c3d4e8b5e1a,Search malfunction,Search results are incorrect,Critical,Closed
+6c4e5d3f-8b7a-4e2c-8f6d-5e9b7d3c2e1f,Notification issue,Notifications not appearing,Major,Open
+3d2e7f6a-4c5d-4b8f-8e3c-7f9d6e3b4a1e,Loading spinner stuck,Loading spinner keeps spinning,Minor,Closed
+4e5d6c3f-9b8a-4d7c-8f5e-3c2d8f7b6e4d,Account lockout,Account gets locked after one failed attempt,Critical,Open
+bf8c5d3e-2e1a-4d6b-8f9d-7e5d4b9c3e6f,Dropdown menu issue,Dropdown menu not working,Major,Closed
+5e6d3c2f-8b7a-4e1c-8f4d-3c7b5d9f2e1b,Footer misalignment,Footer misaligned on mobile view,Minor,Open
+8f7b4d2e-9a6c-4d8a-8e1d-4c3e5d6b7e9f,Database error,Database error on data save,Critical,Closed
+2d3e5f7a-4b6c-4a1f-8d7c-9e5f6c3d8b1a,Form validation issue,Form validation not working,Major,Open
+5b6e7d8c-9a2e-4f1b-8c5d-3e9d4f7b6e8f,Link broken,External link is broken,Minor,Closed
+0c7d4e5a-8b2c-4d6f-8e1d-3a4b7f9e5c3f,Memory leak,Application has a memory leak,Critical,Open
+ae9f6c4d-3b2e-4a8d-8c7d-5e1f3d6b4e7c,Keyboard navigation issue,Keyboard navigation not working,Major,Closed
+6d5e7c8a-9f1e-4b6a-8c2d-4e3b5d7f6e9d,File download error,File download fails,Minor,Open
+3f4e5d6a-8b7c-4a9f-8e2d-7e5f9d3c6b2e,Accessibility issue,Screen reader not supported,Critical,Closed
+0b7d6e5a-8c2e-4d9b-8e1f-3d5f4c6b7e9d,User logout issue,User unable to logout,Major,Open
+7c5e6d3a-9f2a-4b8f-8d1c-4e7d3b6a5c8e,Checkbox malfunction,Checkboxes not selectable,Minor,Closed
+9f8e6d5a-2b7a-4c1d-8e3f-5e4b9d7c6e1a,Email notification error,Emails not being sent,Critical,Open
+2e5d4c7b-3a8c-4b1f-8e2d-6f9d7b5e4c3a,Page redirect issue,Incorrect page redirection,Major,Closed
+8b7e5d6a-9c3e-4a2f-8e4d-3d5f7c9b6e1d,UI freeze,UI freezes on certain actions,Minor,Open

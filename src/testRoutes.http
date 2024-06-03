@@ -1,0 +1,68 @@
+POST http://127.0.0.1:8080/users
+Content-Type: application/json
+
+{
+  "name": "Bro",
+  "age": 12
+}
+###
+GET http://127.0.0.1:8080/notes
+
+###
+GET http://127.0.0.1:8080/notes/9aff29d7-372a-44b0-aadb-4239e8cacd12
+
+###
+POST http://127.0.0.1:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Does this work?",
+  "message": "OMG IT DOES WORK!"
+}
+
+###
+POST http://127.0.0.1:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Some random thing",
+  "message": "Omg im so random!"
+}
+###
+POST http://127.0.0.1:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Note to delete",
+  "message": "0mg!"
+}
+
+####
+DELETE http://127.0.0.1:8080/notes/266a94fa-ac4a-4457-b713-4e34b5732a8c
+###
+POST http://127.0.0.1:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Note to change",
+  "message": "0mg im going to change!"
+}
+
+###
+PUT http://127.0.0.1:8080/notes/d830ae65-e7b6-47eb-86d3-f9140931a5bf
+Content-Type: application/json
+
+{
+  "title": "I was changed!",
+  "message": "Did it work? Was i changed again? OMG!"
+}
+
+###
+PUT http://127.0.0.1:8080/notes/15c0fd9b-4833-42e8-8a56-80f149ec9635
+Content-Type: application/json
+
+{
+  "title": "I was changed!",
+  "message": "Did it work? OMG!"
+}
+

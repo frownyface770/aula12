@@ -1,0 +1,38 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+POST http://127.0.0.1:8080/bugs
+Content-Type: application/json
+
+{
+  "title": "Some bug",
+  "description": "This is some random bug",
+  "severity": "Critical",
+  "status": "Open"
+}
+
+###
+GET http://127.0.0.1:8080/bugs
+
+###
+GET http://127.0.0.1:8080/bugs/8b7e5d6a-9c3e-4a2f-8e4d-3d5f7c9b6e1d
+
+###
+PUT http://127.0.0.1:8080/bugs/90d48328-2338-435a-a078-4f6612b13d24
+Content-Type: application/json
+
+{
+  "title": "Updated",
+  "description": "Updated bug",
+  "severity": "Critical",
+  "status": "Open"
+}
+
+###
+
+POST http://127.0.0.1:8080/bugs/upload/src/bugfile.txt
+Content-Type: application/json
+
+{}
